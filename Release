@@ -1,8 +1,8 @@
-Origin: Qiosz xMalr
-Label: Qiosz xMalr
+Origin: 7ellowould
+Label: 7ellowould
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: 
+Description: The purpose of this source file is to collect important tools. This source is free
